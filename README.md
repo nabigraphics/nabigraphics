@@ -1,6 +1,6 @@
+![nabigraphics logo](/logo.png)
+
 ## 👋 Hi! Welcome to my Github profile!
-
-
 
 ## 🔭 I’m currently working on
 - [Wizpace(Web Frontend Developer)](https://wizpace.com) to making a [leagueoftraders.io](https://leagueoftraders.io/)
