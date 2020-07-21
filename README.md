@@ -1,4 +1,4 @@
-![nabigraphics logo](/logo.png)
+![nabigraphics logo](https://raw.githubusercontent.com/nabigraphics/nabigraphics/master/logo.png)
 
 ## 👋 Hi! Welcome to my Github profile!
 
