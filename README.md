@@ -3,7 +3,7 @@
 ## 👋 Hi! Welcome to my Github profile!
 
 ## 🔭 I’m currently working on
-- [Wizpace(Web Frontend Developer)](https://wizpace.com) to making a [leagueoftraders.io](https://leagueoftraders.io/)
+- [Croquis - 지그재그 (Web Frontend Developer)](https://zigzag.kr)
 
 ## 🌱 I’m currently learning
 - Javascript & Typescript ~~My name is Jusung!(JS)~~
