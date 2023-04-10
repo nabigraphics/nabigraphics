@@ -29,39 +29,15 @@
 ### Open Source Contribution
 
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper)
-	- https://github.com/nolimits4web/swiper/pull/5095 (버그 수정)
-	- https://github.com/nolimits4web/swiper/pull/5115 (버그 수정)
+	- https://github.com/nolimits4web/swiper/pull/5095 (bug fixes)
+	- https://github.com/nolimits4web/swiper/pull/5115 (bug fixes)
 
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso)
-	- https://github.com/petyosi/react-virtuoso/issues/710 (버그 수정)
+	- https://github.com/petyosi/react-virtuoso/issues/710 (bug fixes)
 
 - [pmndrs/jotai](https://github.com/pmndrs/jotai)
-	- https://github.com/pmndrs/jotai/pull/985 (문서 수정)
-	- https://github.com/pmndrs/jotai/pull/1283 (문서 수정)
+	- https://github.com/pmndrs/jotai/pull/985 (docs)
+	- https://github.com/pmndrs/jotai/pull/1283 (docs)
 
 - [h6s-dev/h6s](https://github.com/h6s-dev/h6s)
-	- https://github.com/h6s-dev/h6s/pull/201 (문서 수정)
-
-
-<br/>
-
-```
-Facebook: https://www.facebook.com/nabigraphics
-Twitter: https://twitter.com/nabigraphics
-Email: hbh2692@naver.com
-```
-
-<!--
-**nabigraphics/nabigraphics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	- https://github.com/h6s-dev/h6s/pull/201 (docs)
