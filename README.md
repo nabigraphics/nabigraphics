@@ -2,31 +2,31 @@
 
 <br/>
 
-<h3>
+<div>
 안녕하세요! 👋<br/>
 디자인과 개발의 영역을 조화롭게 표현할 수 있는<br/>
 프론트엔드 개발의 매력에 빠진 사람, 황주성 입니다.
-</h1>
+</div>
 
 <br/>
 
-### Work Experience
+## Work Experience
 
-#### Kakaostyle (카카오스타일)
+### Kakaostyle (카카오스타일)
 
 > 2021.02 ~ 현재 | Frontend Developer
 
-#### Wizpace (위즈페이스)
+### Wizpace (위즈페이스)
 
 > 2017.12 ~ 2021.02 | Frontend Developer
 
-#### World Factory (월드팩토리)
+### World Factory (월드팩토리)
 
 > 2017.02 ~ 2017.08 | Web Designer & Web Developer
 
 <br/>
 
-### Open Source Contribution
+## Open Source Contribution
 
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper)
 	- https://github.com/nolimits4web/swiper/pull/5095 (bug fixes)
